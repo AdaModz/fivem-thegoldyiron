@@ -7,6 +7,15 @@ files {
     'handling.meta',
     'vehiclelayouts.meta',
 	'dlctext.meta',
+	'brzrbv3contentunlocks.meta',
+	'caraddoncontentunlocks.meta',
+	'fxxkcontentunlocks.meta',
+	'koenigcontentunlocks.meta',
+	'm5e60contentunlocks.meta',
+	'regeracontentunlocks.meta',
+	'rmodvenenocontentunlocks.meta',
+	'rs6contentunlocks.meta',
+	'teamdtdcontentunlocks.meta',	
 	
 }
 
